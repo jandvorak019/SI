@@ -11,7 +11,7 @@ https://code.visualstudio.com/ VS Code installtion
 Place for installing modules and extensions.
 
 ## User friendly options
-Always choose one of the three or so more looks for your vsode, from light to dark to colorful. 
+Always choose one of the three or so more looks for your vscode, from light to dark to colorful. 
 
 
 ## Keyboard shortcuts
